@@ -18,7 +18,7 @@ public class String9 {
         int n;
         char c1, c2;
 
-        System.out.println("Enter number");
+        System.out.println("Enter the input number");
         n = in.nextInt();
 
         System.out.println("Enter first character");
