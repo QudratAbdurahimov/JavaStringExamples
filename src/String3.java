@@ -20,7 +20,7 @@ public class String3 {
 
         char c, before, after;
 
-        System.out.println("Input character");
+        System.out.println("Enter character");
         c = (char) br.read();
 
         before = (char) (c - 1);

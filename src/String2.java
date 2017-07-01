@@ -13,6 +13,7 @@ public class String2 {
         Scanner in = new Scanner(System.in);
         int n;
 
+        System.out.println("Enter number");
         n = in.nextInt();
 
         System.out.println(n + "->" + (char) n);

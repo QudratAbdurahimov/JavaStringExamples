@@ -13,7 +13,7 @@ public class String1 {
     public static void main(String[] args) throws IOException {
         char c;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Input character");
+        System.out.println("Enter character");
 
         c = (char) br.read();
         System.out.println(c + "->" + (int) c);

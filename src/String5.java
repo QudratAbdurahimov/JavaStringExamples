@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * String5. Given an integer N (1 ≤ N ≤ 26), output N last small (that is, lowercase) letters of the English alphabet
  * in inverse order ("z", "y", "x", and so on).
@@ -9,4 +11,17 @@
  * http://dastur.uz; dasturchi@mail.ru
  */
 public class String5 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n;
+
+        System.out.println("Enter number");
+        n = in.nextInt();
+
+        // Letter z -> 122, y -> 121, ...
+
+        for (int i = 1; i <= n; i++)
+            System.out.print((char) (123 - i) + " ");
+
+    }
 }

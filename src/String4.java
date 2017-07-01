@@ -15,6 +15,7 @@ public class String4 {
         Scanner in = new Scanner(System.in);
         int n;
 
+        System.out.println("Enter number");
         n = in.nextInt();
 
         // Letter A -> 65, B -> 66, ...
