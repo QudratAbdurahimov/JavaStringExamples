@@ -6,9 +6,6 @@ import java.io.InputStreamReader;
  * Given a character C, output its numeric value in the character set.
  *
  * Дан символ C. Вывести его код (т. е. номер в кодовой таблице)
- * русча харфларни курмаяпти
- * калай
- *
  * Created by Qudrat Abdurahimov on 01.07.2017.
  * http://dastur.uz; dasturchi@mail.ru
  */
