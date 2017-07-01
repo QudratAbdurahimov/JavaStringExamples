@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 /**
  * String3
- * String3.[Pascal] Given a character C, output two characters:
+ * Given a character C, output two characters:
  * the first character precedes C in the character set,
  * the second one follows C in the character set.
  *
