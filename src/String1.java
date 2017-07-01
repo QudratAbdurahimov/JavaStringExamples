@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 /**
  * Given a character C, output its numeric value in the character set.
  *
- * Дан символ C. Вывести его код (т. е. номер в кодовой таблице).
+ * Дан символ C. Вывести его код (т. е. номер в кодовой таблице)
  *
  * Created by Qudrat Abdurahimov on 01.07.2017.
  * http://dastur.uz; dasturchi@mail.ru
