@@ -30,7 +30,6 @@ public class String8 {
             s += c;
         }
 
-
         System.out.println(s);
 
     }
